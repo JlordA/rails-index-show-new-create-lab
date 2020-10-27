@@ -42,7 +42,7 @@ The application you will be building is a Coupon app. Below is a high-level over
 
 * The form should be wired up to the `create` action in the controller and, when submitted, should create a new record in the `coupons` table with the parameters passed through the form.
 
-* The controller should use the `redirect_to` helper method to redirect the user to the `show` page template for the newly-created coupon.
+<!-- * The controller should use the `redirect_to` helper method to redirect the user to the `show` page template for the newly-created coupon. -->
 
 
 ## Resources
